@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-React_and_TailwindCSS/static/css/main.d133f4de.css",
-    "main.js": "/Portfolio-React_and_TailwindCSS/static/js/main.9797dcfd.js",
+    "main.css": "/Portfolio-React_and_TailwindCSS/static/css/main.26fb7bff.css",
+    "main.js": "/Portfolio-React_and_TailwindCSS/static/js/main.870553d3.js",
     "static/media/newsMonkey.png": "/Portfolio-React_and_TailwindCSS/static/media/newsMonkey.e502bc4dafebaa6892a0.png",
     "static/media/bootstrap.png": "/Portfolio-React_and_TailwindCSS/static/media/bootstrap.e53d77fae52c3827fb74.png",
     "static/media/textUtilsImage.png": "/Portfolio-React_and_TailwindCSS/static/media/textUtilsImage.c56480aa41b56fd2105f.png",
@@ -15,11 +15,11 @@
     "static/media/css.png": "/Portfolio-React_and_TailwindCSS/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/Portfolio-React_and_TailwindCSS/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio-React_and_TailwindCSS/index.html",
-    "main.d133f4de.css.map": "/Portfolio-React_and_TailwindCSS/static/css/main.d133f4de.css.map",
-    "main.9797dcfd.js.map": "/Portfolio-React_and_TailwindCSS/static/js/main.9797dcfd.js.map"
+    "main.26fb7bff.css.map": "/Portfolio-React_and_TailwindCSS/static/css/main.26fb7bff.css.map",
+    "main.870553d3.js.map": "/Portfolio-React_and_TailwindCSS/static/js/main.870553d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.d133f4de.css",
-    "static/js/main.9797dcfd.js"
+    "static/css/main.26fb7bff.css",
+    "static/js/main.870553d3.js"
   ]
 }
